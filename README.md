@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaehyungKim
+- 👋 Hi, I’m TaehyungKim
 - 👀 I’m interested in computer vision<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://boysboy3.tistory.com)](https://boysboy3.tistory.com/)
 [![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kimtaehyeong)](https://github.com/kimtaehyeong/)<br>
