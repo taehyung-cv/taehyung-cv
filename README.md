@@ -1,5 +1,10 @@
-- 👋 Hi, I’m TaehyungKim
-- 👀 I’m interested in computer vision<br>
+# TaehyungKim
+- 👋  Hi there!
+- 👀 I’m interested in computer vision.<br>
+- 🔭  I'm currently working at **Deep In Sight**.
+- 🌱  I’m currently developing a **3D-camera-based** **DSM**(driver monitoring system) and gaze segmentation and so on.
+- I'm very interested in developing applications that are useful in real-world through computer vision technology.
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://boysboy3.tistory.com)](https://boysboy3.tistory.com/)
 [![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kimtaehyeong)](https://github.com/kimtaehyeong/)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyung-cv&hide=contribs,prs)
