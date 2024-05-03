@@ -1,7 +1,7 @@
 # TaehyungKim
 - 👋  Hi there!
 - 👀 I’m interested in computer vision.<br>
-- 🔭  I'm currently working at **LOTTE DATA COMMUNICATION COMPANY**.
+- 🔭  I'm currently working at **LOTTE INNOVATE**.
 - 🌱  I’m currently developing a **license-plate-recognition** **LPDR**(license plate detection & recognition) and diffusion model research and so on.
 - I'm very interested in developing applications that are useful in real-world through computer vision technology.
 
