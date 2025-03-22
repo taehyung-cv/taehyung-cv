@@ -2,7 +2,7 @@
 - 👋  Hi there!
 - 👀 I’m interested in computer vision.<br>
 - 🔭  I'm currently working at **LOTTE INNOVATE**.
-- 🌱  I’m currently developing a **license-plate-recognition** **LPDR**(license plate detection & recognition) and diffusion model research and so on.
+- 🌱  I’m currently developing a **license-plate-recognition** **LPDR**(license plate detection & recognition) and Intelligent CCTV System and so on.
 - I'm very interested in developing applications that are useful in real-world through computer vision technology.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://boysboy3.tistory.com)](https://boysboy3.tistory.com/)
